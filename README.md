@@ -1,4 +1,4 @@
-#clicky-game
+##clicky-game
 Overview
 A twist on the old "memory game"
 
