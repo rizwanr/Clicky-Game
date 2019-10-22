@@ -1,0 +1,62 @@
+[
+  {
+    "id": 644,
+    "name": "Superman",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg"
+  },
+  {
+    "id": 403,
+    "name": "Legion",
+    "image" :"https://www.superherodb.com/pictures2/portraits/10/100/10651.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Destroyer",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/1294.jpg"
+  },
+  {
+    "id": 453,
+    "name": "Minna Murray",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/10090.jpg"
+  },
+  {
+    "id": 480,
+    "name": "Mystique",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/817.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Chuck Norris",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/954.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Ghost Rider",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/68.jpg"
+  },
+  {
+    "id": 631,
+    "name": "Starust",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/1052.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Kilowog",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/1428.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Exodus",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/1517.jpg"
+  },
+  {
+    "id": 1,
+    "name": "A-Bomb",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Anti-Spawn",
+    "image":"https://www.superherodb.com/pictures2/portraits/10/100/1071.jpg"
+  }
+]
